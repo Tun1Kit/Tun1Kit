@@ -1,23 +1,25 @@
 <!-- Profile README | github.com/Tun1Kit -->
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Tun1Kit — Minecraft Systems Developer; Java, Python and aspiring AI engineer" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Tun1Kit — LuckyVN Network Developer, Minecraft Systems Developer, Java, Python and aspiring AI engineer" />
 </p>
 
 <p align="center">
-  <strong>Minecraft Systems Developer</strong> &nbsp;·&nbsp; <strong>Python Automation</strong> &nbsp;·&nbsp; <strong>Aspiring AI Engineer</strong>
+  <strong>Developer @ <a href="https://luckyvn.com/">LuckyVN Network</a></strong> &nbsp;·&nbsp; <strong>Minecraft Systems Developer</strong> &nbsp;·&nbsp; <strong>Aspiring AI Engineer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Tun1Kit?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Tun1Kit?tab=overview">Development Activity</a>
+  &nbsp;·&nbsp;
+  <a href="https://luckyvn.com/">LuckyVN Network</a>
 </p>
 
 ---
 
 ### About me
 
-Hey, I'm **Kit**, a developer from Vietnam focused on **Minecraft server engineering**, Java-based gameplay systems, and developer automation with Python.
+Hey, I'm **Kit**, a Minecraft server developer from Vietnam, currently developing for **[LuckyVN Network](https://luckyvn.com/)** — one of Vietnam's well-known Minecraft server communities. I focus on **Minecraft server engineering**, Java-based gameplay systems, and developer automation with Python.
 
 I enjoy designing maintainable server mechanics, improving development workflows, and learning how **AI engineering** can help build smarter tools and experiences.
 
@@ -25,6 +27,15 @@ I enjoy designing maintainable server mechanics, improving development workflows
 - **Languages:** Java and Python.
 - **Currently learning:** AI/ML fundamentals, LLM applications, and practical evaluation techniques.
 - **Engineering mindset:** Build carefully, test changes, document decisions, and keep improving.
+
+### Experience
+
+**Minecraft Server Developer — [LuckyVN Network](https://luckyvn.com/)** · Current
+
+Working on Minecraft server-side systems and gameplay development in a large Vietnamese Minecraft community. My engineering interests include modular Java plugins, reliable server mechanics, Python tooling, and practical AI-assisted workflows.
+
+- Website: **[luckyvn.com](https://luckyvn.com/)**
+- GitHub organization: **[LUCKYVN-NETWORK](https://github.com/LUCKYVN-NETWORK)**
 
 ### Selected work
 
