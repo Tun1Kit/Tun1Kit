@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Tun1Kit — Minecraft Systems Developer and Aspiring AI Engineer</title>
+<desc id="desc">Dark, minimal developer banner with a pixel-inspired green block and subtle blue circuit lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c1320"/><stop offset="1" stop-color="#172236"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#83eeae"/><stop offset="1" stop-color="#3cb981"/></linearGradient>
+</defs>
+<rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+<rect x="0" y="0" width="8" height="310" fill="#67d99a"/>
+<path d="M0 255 H1200" stroke="#243b52" stroke-width="1"/>
+<g opacity=".14" fill="#7c92ac">
+  <rect x="24" y="26" width="12" height="12"/><rect x="48" y="26" width="12" height="12"/><rect x="24" y="50" width="12" height="12"/>
+  <rect x="1124" y="30" width="9" height="9"/><rect x="1142" y="48" width="9" height="9"/><rect x="1160" y="30" width="9" height="9"/>
+</g>
+<g transform="translate(74 73)">
+  <path d="M20 0 106 0 125 20 125 106 105 125 19 125 0 105 0 19Z" fill="#193c35" stroke="#4fba88" stroke-width="2"/>
+  <path d="M23 28H102V41H23ZM23 44H102V57H23Z" fill="#397d59"/>
+  <rect x="23" y="62" width="79" height="41" fill="#244d41"/>
+  <rect x="35" y="72" width="17" height="17" fill="url(#green)"/><rect x="56" y="72" width="17" height="17" fill="#4dcd91"/><rect x="77" y="72" width="13" height="17" fill="#8be7b1"/>
+  <rect x="35" y="93" width="55" height="5" fill="#2fa26c"/>
+  <path d="M7 22V9H20M105 9H118V22M7 103V116H20M105 116H118V103" stroke="#80efb0" stroke-width="3" fill="none"/>
+</g>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <text x="239" y="112" fill="#92e7b3" font-size="18" font-weight="700" letter-spacing="6">TUN1KIT / KIT</text>
+  <text x="236" y="171" fill="#f3f7ff" font-size="48" font-weight="800" letter-spacing="-1">Minecraft Systems Developer</text>
+  <text x="239" y="210" fill="#b6c6d9" font-size="23" font-weight="400">Building worlds with Java. Exploring intelligence with Python.</text>
+  <text x="239" y="281" fill="#8ba3b9" font-size="17" font-weight="600" letter-spacing="1.5">JAVA 21  /  PYTHON  /  SERVER ENGINEERING  /  AI LEARNING</text>
+</g>
+<g stroke="#6da9d8" stroke-width="2" opacity=".46" fill="none">
+  <path d="M1031 62 H1080 V94 H1138"/><path d="M1080 94 V143 H1152"/><path d="M1052 212 H1101 V172 H1166"/>
+  <circle cx="1031" cy="62" r="5" fill="#7abfe9"/><circle cx="1138" cy="94" r="5" fill="#7abfe9"/><circle cx="1152" cy="143" r="5" fill="#7abfe9"/><circle cx="1052" cy="212" r="5" fill="#7abfe9"/><circle cx="1166" cy="172" r="5" fill="#7abfe9"/>
+</g>
+</svg>
